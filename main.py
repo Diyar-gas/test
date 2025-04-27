@@ -1,3 +1,6 @@
 #!/usr/bin/python3
 
-print("Hello, Git world")
+def c(a,b):
+	return a+b
+
+print(c(3,5))
